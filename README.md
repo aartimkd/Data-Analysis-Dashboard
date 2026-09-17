@@ -5,8 +5,6 @@ The project uses employee, product, revenue, quantity, commission, date, and sta
 
 # Objectives of the project:
 
-### Objectives
-
 • Analyze overall sales performance.
 • Track total revenue and quantity sold.
 • Compare the performance of different sales representatives.
