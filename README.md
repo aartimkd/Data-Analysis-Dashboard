@@ -1,2 +1,9 @@
-# Data-Analysis-Dashboard
-Employee Sales Performance Analysis is an Excel-based project that analyzes sales data to understand revenue, quantity sold, employee performance, product performance, and regional sales trends. It uses PivotTables, KPIs, charts, and an interactive dashboard to transform raw sales data into meaningful business insights.
+1.Objectives of the project:
+
+Analyze overall sales performance.
+Track total revenue and quantity sold.
+Compare performance of different sales representatives.
+Identify the best-performing products.
+Analyze sales performance across different states.
+Understand daily sales trends.
+Analyze commission-related information.
