@@ -16,4 +16,14 @@ Analyze commission-related information.
 # Dataset used
 - <a href="https://github.com/aartimkd/Data-Analysis-Dashboard/blob/main/employee%20sales.xlsx">Dataset</a>
 
-
+# Key Performance Indicators (KPIs)
+1. Total Revenue
+Measures the total revenue generated from sales.
+2. Total Quantity Sold
+Shows the total number of units sold.
+3. Total Commission
+Shows commission information from the dataset.
+4. Commission %
+Shows the commission percentage calculated in the KPI section.
+5. Total Items
+Shows the number of distinct item categories represented in the KPI section.
