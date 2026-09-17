@@ -32,13 +32,17 @@ Shows the number of distinct item categories represented in the KPI section.
 <img width="1447" height="612" alt="Employess Sales Dashboard" src="https://github.com/user-attachments/assets/b0ee2853-dbad-45a4-a7be-c5b2941e2d17" />
 
 # Key Insights
-1.1,303 sales transactions were analyzed.
-2.Total recorded revenue was ₹15,89,746.
-3.Total quantity sold was 16,669 units.
-4.There were 5 sales representatives.
-5.There were 5 product categories.
-6.Sales were recorded across 13 states.
-7.Office Chair generated the highest product revenue.
-8.Stacey recorded the highest revenue among the five representatives.
-9.Gujarat recorded the highest state-level revenue.
-10.Daily sales analysis can be used to identify fluctuations throughout July 2018.
+
+* 1,303 sales transactions were analyzed.
+
+* Total recorded revenue was ₹15,89,746.
+
+* Total quantity sold was 16,669 units.
+
+* Office Chair generated the highest product revenue.
+
+* Stacey recorded the highest revenue among the five sales representatives.
+
+* Gujarat recorded the highest state-level revenue.
+
+
