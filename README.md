@@ -1,3 +1,9 @@
+# Project Overview
+
+This project analyzes employee sales data to understand overall sales performance and identify key business insights. The analysis covers revenue, quantity sold, sales representatives, products, states, daily sales trends, and commissions.
+
+The project uses Excel to clean, analyze, and visualize the data through an interactive sales dashboard. The dashboard helps track key performance indicators (KPIs) and compare sales performance across different dimensions.
+
 # Introduction
 Employee Sales Performance Analysis is an Excel-based data analytics project created to analyze sales transactions and understand overall sales performance.
 
@@ -5,14 +11,13 @@ The project uses employee, product, revenue, quantity, commission, date, and sta
 
 # Objectives of the project:
 
-Analyze overall sales performance.
-Track total revenue and quantity sold.
-Compare the performance of different sales representatives.
-Identify the best-performing products.
-Analyze sales performance across different states.
-Understand daily sales trends.
-Analyze commission-related information.
-
+1. Analyze overall sales performance.
+2. Track total revenue and quantity sold.
+3. Compare the performance of different sales representatives.
+4. Identify the best-performing products.
+5. Analyze sales performance across different states.
+6. Understand daily sales trends.
+7. Analyze commission-related information.
 
 # Dataset used
 - <a href="https://github.com/aartimkd/Data-Analysis-Dashboard/blob/main/employee%20sales.xlsx">Dataset</a>
