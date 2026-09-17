@@ -5,13 +5,13 @@ The project uses employee, product, revenue, quantity, commission, date, and sta
 
 # Objectives of the project:
 
-1.Analyze overall sales performance.
-2.Track total revenue and quantity sold.
-3.Compare the performance of different sales representatives.
-4.Identify the best-performing products.
-5.Analyze sales performance across different states.
-6.Understand daily sales trends.
-7.Analyze commission-related information.
+-Analyze overall sales performance.
+-Track total revenue and quantity sold.
+-Compare the performance of different sales representatives.
+-Identify the best-performing products.
+-Analyze sales performance across different states.
+-Understand daily sales trends.
+-Analyze commission-related information.
 
 
 # Dataset used
