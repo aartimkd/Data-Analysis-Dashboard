@@ -29,4 +29,5 @@ Shows the commission percentage calculated in the KPI section.
 Shows the number of distinct item categories represented in the KPI section.
 
 # Dashboard
-"C:\Users\aarat\Downloads\Employess Sales Dashboard.png"
+<img width="1447" height="612" alt="Employess Sales Dashboard" src="https://github.com/user-attachments/assets/b0ee2853-dbad-45a4-a7be-c5b2941e2d17" />
+
