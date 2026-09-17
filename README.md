@@ -38,9 +38,6 @@ Shows the number of distinct item categories represented in the KPI section.
 <img width="1447" height="612" alt="Employess Sales Dashboard" src="https://github.com/user-attachments/assets/b0ee2853-dbad-45a4-a7be-c5b2941e2d17" />
 
 # Key Insights
-
-### Key Insights
-
 1. 1,303 sales transactions were analyzed.
 2. Total recorded revenue was ₹15,89,746.
 3. Total quantity sold was 16,669 units.
@@ -48,6 +45,16 @@ Shows the number of distinct item categories represented in the KPI section.
 5. Stacey recorded the highest revenue among the sales representatives.
 6. Gujarat recorded the highest state-level revenue.
 7. Daily sales analysis helps identify sales fluctuations throughout July 2018.
+
+# Tool / Technology | Purpose                                                       |
+| ----------------- | ------------------------------------------------------------- |
+| Microsoft Excel   | Data cleaning, analysis, calculations, and dashboard creation |
+| Power Query       | Data transformation and preprocessing                         |
+| Pivot Tables      | Data summarization and analysis                               |
+| Pivot Charts      | Visualizing sales performance and trends                      |
+| Excel Formulas    | Revenue, quantity, commission, and KPI calculations           |
+| Excel Dashboard   | Interactive visualization of key sales insights               |
+
 
 # Conclusion
 
