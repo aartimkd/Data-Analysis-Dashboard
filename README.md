@@ -1,16 +1,11 @@
-# Project Overview
+# Employee Sales Performance Analysis Dashboard
 
+# Project Overview
 This project analyzes employee sales data to understand overall sales performance and identify key business insights. The analysis covers revenue, quantity sold, sales representatives, products, states, daily sales trends, and commissions.
 
 The project uses Excel to clean, analyze, and visualize the data through an interactive sales dashboard. The dashboard helps track key performance indicators (KPIs) and compare sales performance across different dimensions.
 
-# Introduction
-Employee Sales Performance Analysis is an Excel-based data analytics project created to analyze sales transactions and understand overall sales performance.
-
-The project uses employee, product, revenue, quantity, commission, date, and state-level information to identify sales patterns and provide meaningful business insights through KPIs, PivotTables, charts, and an interactive dashboard.
-
 # Objectives of the project:
-
 1. Analyze overall sales performance.
 2. Track total revenue and quantity sold.
 3. Compare the performance of different sales representatives.
@@ -22,7 +17,18 @@ The project uses employee, product, revenue, quantity, commission, date, and sta
 # Dataset used
 - <a href="https://github.com/aartimkd/Data-Analysis-Dashboard/blob/main/employee%20sales.xlsx">Dataset</a>
 
-# Key Performance Indicators (KPIs)
+# Data Preparation Process
+1. **Data Import** – Imported the employee sales dataset into Microsoft Excel.
+2. **Data Cleaning** – Checked for duplicate, missing, and incorrect values.
+3. **Data Formatting** – Standardized dates, product names, states, and numerical values.
+4. **Data Validation** – Verified the data for inconsistencies and calculation errors.
+5. **Calculated Fields** – Used Excel formulas to calculate revenue, commission, and other required metrics.
+6. **Data Organization** – Structured the cleaned data into a tabular format for analysis.
+7. **Data Summarization** – Used PivotTables to summarize sales by employee, product, state, and date.
+8. **Visualization** – Created PivotCharts and an interactive Excel dashboard to present key insights.
+
+
+# KPIs
 1. Total Revenue
 Measures the total revenue generated from sales.
 2. Total Quantity Sold
@@ -34,8 +40,30 @@ Shows the commission percentage calculated in the KPI section.
 5. Total Items
 Shows the number of distinct item categories represented in the KPI section.
 
-# Dashboard
-<img width="1447" height="612" alt="Employess Sales Dashboard" src="https://github.com/user-attachments/assets/b0ee2853-dbad-45a4-a7be-c5b2941e2d17" />
+# Tool / Technology | Purpose                                                       
+                                       
+|Tools/Technology    |Purpose                                              |
+| ----------------- | --------------------------------------------------- |
+| Microsoft Excel   | Data cleaning, analysis, and dashboard creation     |
+| Power Query       | Data transformation and preprocessing               |
+| Pivot Tables      | Data summarization and analysis                     |
+| Pivot Charts      | Sales data visualization                            |
+| Excel Formulas    | Revenue, quantity, commission, and KPI calculations |
+| Excel Dashboard   | Interactive visualization of sales performance      |
+
+
+# Business Questions
+
+1. What is the overall sales revenue generated?
+2. How many total units were sold?
+3. Which sales representative generated the highest revenue?
+4. Which product generated the highest revenue?
+5. Which product had the highest and lowest sales?
+6. Which state generated the highest sales revenue?
+7. How does sales performance vary across different states?
+8. What are the daily sales trends during July 2018?
+9. Which sales representative sold the highest quantity of products?
+10. What is the total commission recorded from sales?
 
 # Key Insights
 1. 1,303 sales transactions were analyzed.
@@ -46,15 +74,20 @@ Shows the number of distinct item categories represented in the KPI section.
 6. Gujarat recorded the highest state-level revenue.
 7. Daily sales analysis helps identify sales fluctuations throughout July 2018.
 
-# Tool / Technology | Purpose                                                       |
-                                       
-| ----------------- | --------------------------------------------------- |
-| Microsoft Excel   | Data cleaning, analysis, and dashboard creation     |
-| Power Query       | Data transformation and preprocessing               |
-| Pivot Tables      | Data summarization and analysis                     |
-| Pivot Charts      | Sales data visualization                            |
-| Excel Formulas    | Revenue, quantity, commission, and KPI calculations |
-| Excel Dashboard   | Interactive visualization of sales performance      |
+# Product sales analysis
+| Product      |  Revenue |
+| ------------ | -------: |
+| Office Chair | ₹610,650 |
+| Projector    | ₹462,000 |
+| Printer      | ₹306,880 |
+| White Board  | ₹161,080 |
+| Diary        |  ₹49,136 |
+
+# Graph
+<img width="1113" height="414" alt="image" src="https://github.com/user-attachments/assets/60085162-87c6-4c72-a154-066780d87c18" />
+
+# Dashboard
+<img width="1447" height="612" alt="Employess Sales Dashboard" src="https://github.com/user-attachments/assets/b0ee2853-dbad-45a4-a7be-c5b2941e2d17" />
 
 
 # Conclusion
