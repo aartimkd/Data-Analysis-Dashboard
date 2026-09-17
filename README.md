@@ -47,13 +47,14 @@ Shows the number of distinct item categories represented in the KPI section.
 7. Daily sales analysis helps identify sales fluctuations throughout July 2018.
 
 # Tool / Technology | Purpose                                                       |
-| ----------------- | ------------------------------------------------------------- |
-| Microsoft Excel   | Data cleaning, analysis, calculations, and dashboard creation |
-| Power Query       | Data transformation and preprocessing                         |
-| Pivot Tables      | Data summarization and analysis                               |
-| Pivot Charts      | Visualizing sales performance and trends                      |
-| Excel Formulas    | Revenue, quantity, commission, and KPI calculations           |
-| Excel Dashboard   | Interactive visualization of key sales insights               |
+                                       
+| ----------------- | --------------------------------------------------- |
+| Microsoft Excel   | Data cleaning, analysis, and dashboard creation     |
+| Power Query       | Data transformation and preprocessing               |
+| Pivot Tables      | Data summarization and analysis                     |
+| Pivot Charts      | Sales data visualization                            |
+| Excel Formulas    | Revenue, quantity, commission, and KPI calculations |
+| Excel Dashboard   | Interactive visualization of sales performance      |
 
 
 # Conclusion
