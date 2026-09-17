@@ -1,3 +1,8 @@
+# Introduction
+Employee Sales Performance Analysis is an Excel-based data analytics project created to analyze sales transactions and understand overall sales performance.
+
+The project uses employee, product, revenue, quantity, commission, date, and state-level information to identify sales patterns and provide meaningful business insights through KPIs, PivotTables, charts, and an interactive dashboard.
+
 # Objectives of the project:
 
 Analyze overall sales performance.
