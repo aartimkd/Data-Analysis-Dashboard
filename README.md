@@ -33,16 +33,15 @@ Shows the number of distinct item categories represented in the KPI section.
 
 # Key Insights
 
-* 1,303 sales transactions were analyzed.
+### Key Insights
 
-* Total recorded revenue was ₹15,89,746.
+1. 1,303 sales transactions were analyzed.
+2. Total recorded revenue was ₹15,89,746.
+3. Total quantity sold was 16,669 units.
+4. Office Chair generated the highest product revenue.
+5. Stacey recorded the highest revenue among the sales representatives.
+6. Gujarat recorded the highest state-level revenue.
+7. Daily sales analysis helps identify sales fluctuations throughout July 2018.
 
-* Total quantity sold was 16,669 units.
-
-* Office Chair generated the highest product revenue.
-
-* Stacey recorded the highest revenue among the five sales representatives.
-
-* Gujarat recorded the highest state-level revenue.
 
 
