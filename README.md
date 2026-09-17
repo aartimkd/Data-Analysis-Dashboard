@@ -27,3 +27,6 @@ Shows commission information from the dataset.
 Shows the commission percentage calculated in the KPI section.
 5. Total Items
 Shows the number of distinct item categories represented in the KPI section.
+
+# Dashboard
+"C:\Users\aarat\Downloads\Employess Sales Dashboard.png"
